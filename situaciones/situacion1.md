@@ -29,6 +29,7 @@ El panel debe permitir el estudio conjunto de:
 | **Sentinel-5P L2 OFFL** | O₃ total column | 3.5 × 5.5 km | Diaria | Copernicus DataSpace · GEE |
 | **Sentinel-2 L2A** | 13 bandas (B2-B12)* | 10 / 20 / 60 m | 5 días | Copernicus · GEE |
 | **MODIS MCD19A2** | AOD (proxy PM) | 1 km | Diaria | NASA Earthdata · GEE |
-| **ERA5-Land** | T2m, viento, BLH, RH | 9 km | Horaria | Copernicus CDS · GEE |
+| **ERA5-Land** | T2m, viento, BLH, RH | 9 km | Horaria | Copernicus CDS |
+| **DAGMA / SISAIRE** | NO₂, SO₂, O₃ in-situ | 9 estaciones | Horaria | sisaire.ideam.gov.co |
 
 *\* Requiere selección de bandas necesarias para Sentinel-2.*

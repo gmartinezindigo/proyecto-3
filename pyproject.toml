@@ -5,5 +5,13 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "dask>=2024.1",
     "earthengine-api>=1.7.24",
+    "huggingface-hub>=1.12.2",
+    "python-dotenv>=1.2.2",
+    "requests>=2.33.1",
+    "tqdm>=4.67.3",
+    "xarray>=2024.1",
+    "xee>=0.0.14",
+    "zarr>=2.18",
 ]
